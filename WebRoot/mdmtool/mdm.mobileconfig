@@ -88,7 +88,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ServerURL</key>
-			<string>https://mdm.mbaike.net/mdm/server.do?deviceId=#deviceId#</string>
+			<string>https://google.com</string>
 			<key>SignMessage</key>
 			<true/>
 			<key>Topic</key>
